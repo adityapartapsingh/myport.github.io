@@ -1,4 +1,4 @@
-<<?php
+<?php
 if (isset($_POST['submit'])) {
   $mailto = "adityapartapsingh92@gmail.com"; //my email address
   // getting user data
